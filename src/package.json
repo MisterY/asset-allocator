@@ -1,0 +1,14 @@
+{
+  "name"    : "asset-allocator",
+  "version" : "0.1.0",
+  "description": "The Asset Allocation editor for Money Manager Ex database",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/MisterY/asset-allocator",
+  "author": "Alen Siljak <alen.siljak@yahoo.com>",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "bootstrap-4": "~4.0.0"
+  }
+}
