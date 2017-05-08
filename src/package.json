@@ -2,6 +2,7 @@
   "name"    : "asset-allocator",
   "version" : "0.1.0",
   "description": "The Asset Allocation editor for Money Manager Ex database",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
